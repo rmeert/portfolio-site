@@ -19,7 +19,7 @@ h2 {
 	width: 100%;
 	margin: 0 auto;
 	text-align: center;
-	color: white;
+	color: #FDFDFD;
 	font-family: 'Lora';
 	font-size: 18px;
 }
@@ -30,7 +30,7 @@ p {
 	margin-bottom: 70px;
 	font-size: 20px;
 	font-family: 'Open Sans';
-	line-height: 25px;
+	line-height: 27px;
 }
 
 h3 {
@@ -47,4 +47,25 @@ h4 {
 	font-family: 'Open Sans';
 }
 
+.categories {
+	opacity: 1;
+}
 
+@media (max-width: 700px){
+	span {
+	color: white;
+	font-size: 110px;
+}
+h2 {
+	position: absolute;
+	top: 300px;
+	left: 0;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	color: #FDFDFD;
+	font-family: 'Lora';
+	font-size: 18px;
+}
+
+}
