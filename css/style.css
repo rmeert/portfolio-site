@@ -24,16 +24,18 @@ p {
 	text-align: center;
 	margin-top: 60px;
 	margin-bottom: 60px;
-	font-size: 20px;
+	font-size: 23px;
 }
 
 h3 {
 	font-size: 20px;
 	text-align: center;
 	margin-bottom: 10px;
+	font-family: 'Open Sans';
 }
-h4 {
+a {
 	margin-top: 10px;
 	margin-bottom: 10px;
 	text-align: center;
+	font-family: 'Open Sans';
 }
